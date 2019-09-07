@@ -1,2 +1,2 @@
-# leecode_advanced
-leecode 进阶
+# leetcode_advanced
+leetcode 进阶
