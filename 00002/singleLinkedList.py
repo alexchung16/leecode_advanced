@@ -30,7 +30,7 @@ class Node(object):
         return str(self.val)
 
 
-class singleLinkedList(object):
+class ListNode(object):
     """
     single link list
     """
