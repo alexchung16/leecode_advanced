@@ -6,9 +6,10 @@
 # @ Time 8/9/2019 AM 11:27
 
 """
-chainTable operation
+linked list operation
 """
 
+import os
 
 class Node(object):
     """
@@ -115,7 +116,7 @@ class ListNode(object):
 
 if __name__ == "__main__":
     a = Node(2)
-    l1 = singleLinkedList(10)
+    l1 = ListNode(10)
 
     l1.append(2)
     l1.append(3)
